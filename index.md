@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Since the inception of JavaScript in 1995 it has dominated the web alongside HTML and CSS. Nearly every single website incorporates JavaScript and it is supported by every major web browser. Traditionally, JavaScript has been used as a way of generating dynamic content for web pages, relying on implementation with HTML documents to be useful. However, nowadays, apps of all kinds can be created using %100 JavaScript—and Node.js is a big part of that.
 
-### Jekyll Themes
+So what is Node.js? Simply put, it’s a JavaScript runtime environment based off of Google Chrome’s V8 Engine. It allows us to execute JS code outside of the web browser, which means we can use it to build things like application servers or command line tools, rather than just webpages. Node also includes the npm package manager, which grants access to thousands of libraries that can be used to further expand the functionality of node. You could have a database, web server, and frontend all built entirely in JavaScript depending on the packages you use.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmartin00/cmartin00.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Hello World
 
-### Support or Contact
+After installing Node.js from the official website, you’ll be able to run node apps from the command line. To make sure you’ve correctly installed and configured node, open the command line and run the following command:
+![Image](cliimg1.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
