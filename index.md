@@ -94,6 +94,8 @@ The path module allows you to work with and manipulate directories and file path
 
 The os module allows Node to access information about the operating system, such as system architecture, CPUs, and network interfaces.
 
+[Link](https://drive.google.com/drive/folders/15babrV7VjtvxazJd03XSLbf8EvrtbTVt?usp=sharing)
+
 
 
 
