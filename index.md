@@ -33,5 +33,6 @@ So what is Node.js? Simply put, it’s a JavaScript runtime environment based of
 ### Hello World
 
 After installing Node.js from the official website, you’ll be able to run node apps from the command line. To make sure you’ve correctly installed and configured node, open the command line and run the following command:
+
 ![Image](cliimg1.png)
 
